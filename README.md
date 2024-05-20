@@ -8,6 +8,14 @@ and I enjoy playing volleyball in my free time and I am committted to Bowling Gr
 * kendalltwilliams84@gbstu.org email
 * kendalltwilliams on facebook
 
+###Skills
+* Hard Working
+* Perseverence
+* Team collaboration
+
+  
+
+
 
 <!---
 kendallt13/kendallt13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
