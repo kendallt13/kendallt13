@@ -2,7 +2,7 @@
 I’m looking to collaborate on different coding projects or special interest projects with new friends. My pronouns are she/her
 and I enjoy playing volleyball in my free time and I am committted to Bowling Green State University in the class of '25.
 
-###Socials
+### Socials
 * @kendalltw13 on intagram
 * kendalltwilliams84@gbstu.org email
 * kendalltwilliams on facebook
