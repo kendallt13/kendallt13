@@ -3,7 +3,7 @@ I’m looking to collaborate on different coding projects or special interest pr
 and I enjoy playing volleyball in my free time and I am committted to Bowling Green State University in the class of '25.
 
 ### Socials
-* @kendalltw13 on intagram ![Alt] (![image](https://github.com/kendallt13/kendallt13/assets/158605849/8ef029a2-3038-42aa-9d80-ad867c32f895)
+* @kendalltw13 on intagram ![Alt]([image](https://github.com/kendallt13/kendallt13/assets/158605849/8ef029a2-3038-42aa-9d80-ad867c32f895)
 
 * kendalltwilliams84@gbstu.org email
 * kendalltwilliams on facebook
