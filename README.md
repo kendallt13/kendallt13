@@ -2,20 +2,17 @@
 
 
 [kendalltwilliams84@gbstu.org](mailto:kendalltwilliams84@gbstu.org) 
-[Instagram]([)](https://www.instagram.com/kendalltw13?igsh=NG9kdHVhNm11NHZ2&utm_source=qr)
+[Instagram](https://www.instagram.com/kendalltw13?igsh=NG9kdHVhNm11NHZ2&utm_source=qr)
+[LinkedIn](https://www.linkedin.com/in/aspiece/) 
 
-
+ 
  
 
 👋 Hi, I’m @kendallt13. I’m interested in computer science, sports, and school. I’m currently learning more about computer science in my AP CSP class at school.
 I’m looking to collaborate on different coding projects or special interest projects with new friends. My pronouns are she/her
 and I enjoy playing volleyball in my free time. I am committed to Bowling Green State University in the class of '25 where I will further my academic and athletic career.
 
-### Socials
-* @kendalltw13 on intagram ![Alt]([image](https://github.com/kendallt13/kendallt13/assets/158605849/8ef029a2-3038-42aa-9d80-ad867c32f895)
 
-* kendalltwilliams84@gbstu.org email
-* kendalltwilliams on facebook
 
 ### Skills
 * Hard Working
