@@ -93,7 +93,8 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 <p align='center'> 
 
 *  <a href='mailto:kendalltwilliams84@gbstu.org'>kendalltwilliams84@gbstu.org</a> 
-* [Instagram](https://www.instagram.com/kendalltw13?igsh=NG9kdHVhNm11NHZ2&utm_source=qr)</p> 
+* [Instagram](https://www.instagram.com/kendalltw13?igsh=NG9kdHVhNm11NHZ2&utm_source=qr)</p>
+* * [LinkedIn](https://www.linkedin.com/company/linked-com)
 
 ### Github Statistics 🤔 
 <p align='center'> 
