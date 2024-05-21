@@ -89,7 +89,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 
  
  
-### Social Media Profile 
+### Social Media Profiles
 
 <p align='center'> 
 
