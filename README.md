@@ -89,11 +89,10 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 
  
  
-### Social Media Profiles
-
+### Social Media Profiles📫
 <p align='center'> 
 
-   📫 How to reach me: <a href='mailto:kendalltwilliams84@gbstu.org'>kendalltwilliams84@gbstu.org</a> 
+*  <a href='mailto:kendalltwilliams84@gbstu.org'>kendalltwilliams84@gbstu.org</a> 
 * [Instagram](https://www.instagram.com/kendalltw13?igsh=NG9kdHVhNm11NHZ2&utm_source=qr)</p> 
 
 ### Github Statistics
