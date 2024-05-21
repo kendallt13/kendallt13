@@ -115,6 +115,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 <!---
 ![LinkedIn](https://www.google.com/imgres?q=small%20linkedin%20icon&imgurl=https%3A%2F%2Fbrand.linkedin.com%2Fapps%2Fsettings%2Fwcm%2Fdesigns%2Flinkedin%2Fkaty%2Fglobal%2Fclientlibs%2Fresources%2Fimg%2Fdefault-share.png&imgrefurl=https%3A%2F%2Fbrand.linkedin.com%2Fcontent%2Fbrand%2Fglobal%2Fen_us%2Findex%2Fvisual-identity%2Flogo&docid=9arG0OUXHAfLaM&tbnid=xfN8LhVUsM8dRM&vet=12ahUKEwissNzTmp-GAxVghIkEHd54AjQQM3oECH0QAA..i&w=360&h=220&hcb=2&ved=2ahUKEwissNzTmp-GAxVghIkEHd54AjQQM3oECH0QAA)
 
+
 kendallt13/kendallt13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
