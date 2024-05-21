@@ -68,12 +68,12 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 ### Awards 
 
 
-# Academic
+#### Academic
 * 4.0 GPA
 * Possibility of a future computer science ambassador
 
 
-# Athletic
+#### Athletic
 * 2x all district
 * First team all Region
 * 2022 Most improved
