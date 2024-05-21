@@ -64,6 +64,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 * Makecode Arcade coding projects for my AP CSP class in school.
 * Applying to be a computer science ambassador for my school and continuing this process during the summer and next school year.
 * I am Currently undergoing fulfilling my volunteer requirements for National Honor Society.
+* I am currently taking AP Spanish and love learning more about Hispanic countries as well as different cultures.
  
 
 
@@ -72,7 +73,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 
 #### Academic
 * 4.0 GPA
-* Student of the Month
+* Several Honors and AP classes
 * National Honor Society
 * Possibility of a future computer science ambassador
 
@@ -84,6 +85,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 * individual academic all state
 * 2022 SVL title
 * 2022 district champions
+* 2 year Varsity player
 
  
  
