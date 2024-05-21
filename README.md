@@ -14,7 +14,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 
 
 
-### Skills
+### Skills 👯 
 * Hard Working 
 * Perseverance to get past obstacles
 * Team collaboration both on and off the volleyball court
@@ -23,7 +23,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 
 
 
-### Experience 
+### Experience 💬 
 * I am a Current student at GBHS where I am receiving my current education.
 * I am interested in computer science and I am currently taking an AP Computer Science Principles class at my school where I have also applied to be a CSP ambassador for my school to get more women and young girls interested in the field and provide a resource where they can accomplish their aspirations.
 * I have played on many different volleyball teams so I understand the importance of teamwork and having a good attitude which translates to real life off the court.
@@ -34,8 +34,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 
 
 
-### Education 
-
+### Education 🔭 
 
 
 #### High School 
@@ -60,7 +59,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
  
  
 
-### Projects 
+### Projects 🌱 
 * Makecode Arcade coding projects for my AP CSP class in school.
 * Applying to be a computer science ambassador for my school and continuing this process during the summer and next school year.
 * I am Currently undergoing fulfilling my volunteer requirements for National Honor Society.
@@ -68,7 +67,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
  
 
 
-### Awards 
+### Awards ⚡ 
 
 
 #### Academic
@@ -89,7 +88,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 
  
  
-### Social Media Profiles📫
+### Social Media Profiles 📫
 <p align='center'> 
 
 *  <a href='mailto:kendalltwilliams84@gbstu.org'>kendalltwilliams84@gbstu.org</a> 
