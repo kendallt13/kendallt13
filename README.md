@@ -96,7 +96,26 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
    📫 How to reach me: <a href='mailto:kendalltwilliams84@gbstu.org'>kendalltwilliams84@gbstu.org</a> 
 * [Instagram](https://www.instagram.com/kendalltw13?igsh=NG9kdHVhNm11NHZ2&utm_source=qr)</p> 
 
- 
+### Github Statistics
+<p align='center'> 
+
+   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"/> 
+
+   </a> 
+
+   <a href="https://github.com/yourusername/github-readme-stats"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/> 
+
+   </a> 
+
+</p> 
+### 🛠 Technology Stack 
+* Makecode Arcade Coding
+* One Note site experience
+* Little Github experience but looking forward to experiencing and learning more!
 
 
 
