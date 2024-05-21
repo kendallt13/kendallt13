@@ -19,6 +19,8 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 * Perseverence
 * Team collaboration
 
+
+
 ### Experience 
 * I am a Current student at GBHS where I am receiving my current education.
 * I am interested in computer science and I am currently taking an AP Computer Science Principles class at my school where I have also applied to be a CSP ambassador for my school to get more women and young girls interested in the field and provide a resource where they can accomplish their aspirations.
@@ -28,18 +30,27 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 
  
 
+
+
 ### Education 
+
+
 
 #### High School 
 
 2021-2025
 
+
 * I am currently enrolled at Grand Blanc High School. 
 * I plan to graduate next spring in the class of 2025.
+
+
 
  #### College 
 
 2025-2029
+
+
  
 * After high school, I plan to attend Bowling Green State University to further my academic and volleyball career. I am undecided on my major as of right now but I am considering business as an option.
 * I plan to graduate in the class of 2029.
@@ -53,11 +64,14 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 * I am Currently undergoing fulfilling my volunteer requirements for National Honor Society.
  
 
+
 ### Awards 
+
 
 # Academic
 * 4.0 GPA
 * Possibility of a future computer science ambassador
+
 
 # Athletic
 * 2x all district
@@ -69,7 +83,6 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 
  
  
-
 ### Social Media Profile 
 
 <p align='center'> 
