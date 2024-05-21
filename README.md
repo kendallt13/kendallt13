@@ -15,9 +15,11 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 
 
 ### Skills
-* Hard Working
-* Perseverence
-* Team collaboration
+* Hard Working 
+* Perseverance to get past obstacles
+* Team collaboration both on and off the volleyball court
+* Dedicated to getting better in all aspects
+* Open-minded to trying new ideas and understanding new perspectives
 
 
 
@@ -70,6 +72,8 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 
 #### Academic
 * 4.0 GPA
+* Student of the Month
+* National Honor Society
 * Possibility of a future computer science ambassador
 
 
