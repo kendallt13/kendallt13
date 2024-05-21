@@ -87,14 +87,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 * 2022 district champions
 * 2 year Varsity player
 
- 
- 
-### Social Media Profiles 📫
-<p align='center'> 
 
-*  <a href='mailto:kendalltwilliams84@gbstu.org'>kendalltwilliams84@gbstu.org</a> 
-* [Instagram](https://www.instagram.com/kendalltw13?igsh=NG9kdHVhNm11NHZ2&utm_source=qr)</p>
-* [LinkedIn](https://www.linkedin.com/company/linked-com)
 
 ### Github Statistics 🤔 
 <p align='center'> 
@@ -111,7 +104,12 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
 * One Note site experience
 * Little Github experience but looking forward to experiencing and learning more!
 
+### Social Media Profiles 📫
+<p align='center'> 
 
+*  <a href='mailto:kendalltwilliams84@gbstu.org'>kendalltwilliams84@gbstu.org</a> 
+* [Instagram](https://www.instagram.com/kendalltw13?igsh=NG9kdHVhNm11NHZ2&utm_source=qr)</p>
+* [LinkedIn](https://www.linkedin.com/company/linked-com)
 
 
 <!---
