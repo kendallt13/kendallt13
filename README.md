@@ -112,7 +112,8 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
    </a> 
 
 </p> 
-### 🛠 Technology Stack 
+
+### Technology Stack  🛠
 * Makecode Arcade Coding
 * One Note site experience
 * Little Github experience but looking forward to experiencing and learning more!
