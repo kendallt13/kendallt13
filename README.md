@@ -102,7 +102,7 @@ and I enjoy playing volleyball in my free time. I am committed to Bowling Green 
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=kendallt13&show_icons=true&count_private=true"/> 
    </a> 
    <a href="https://github.com/kendalltw13/github-readme-stats"> 
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendalltw13&layout=compact"/> 
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendallt13&layout=compact"/> 
    </a> 
 </p> 
 
