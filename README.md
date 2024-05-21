@@ -1,9 +1,9 @@
 # Kendall Williams
 
 
-[kendalltwilliams84@gbstu.org](mailto:kendalltwilliams84@gbstu.org) 
-[Instagram](https://www.instagram.com/kendalltw13?igsh=NG9kdHVhNm11NHZ2&utm_source=qr)
-[LinkedIn](https://www.linkedin.com/in/aspiece/) 
+* [kendalltwilliams84@gbstu.org](mailto:kendalltwilliams84@gbstu.org) 
+* [Instagram](https://www.instagram.com/kendalltw13?igsh=NG9kdHVhNm11NHZ2&utm_source=qr)
+
 
  
  
